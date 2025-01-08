@@ -28,7 +28,7 @@ To use Bootstrap via CDN, you can include the following HTML code in the `<head>
 </html>
 ```
 
-This code includes the necessary Bootstrap CSS and JavaScript files from a CDN, allowing you to use Bootstrap's features in your web page.
+This code includes the necessary Bootstrap CSS files from a CDN, allowing you to use Bootstrap's features in your web page.
 ## Advantages of Using Bootstrap CDN vs. Locally
 
 ### Using Bootstrap CDN
